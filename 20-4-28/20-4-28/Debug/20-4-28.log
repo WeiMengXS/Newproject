@@ -1,0 +1,18 @@
+﻿生成启动时间为 2020/5/8 17:55:06。
+项目“C:\Users\Administrator\Documents\Visual Studio 2013\20-4-28\20-4-28\20-4-28.vcxproj”在节点 2 上(Build 个目标)。
+ClCompile:
+  C:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+  test.cpp
+c:\users\administrator\documents\visual studio 2013\20-4-28\20-4-28\vector.h(65): error C3312: 未找到类型“bit::vector<int> *const ”的可调用“begin”函数
+          c:\users\administrator\documents\visual studio 2013\20-4-28\20-4-28\vector.h(64): 编译类 模板 成员函数“void bit::vector<int>::show(void)”时
+          c:\users\administrator\documents\visual studio 2013\20-4-28\20-4-28\vector.h(97): 参见对正在编译的函数 模板 实例化“void bit::vector<int>::show(void)”的引用
+          c:\users\administrator\documents\visual studio 2013\20-4-28\20-4-28\vector.h(92): 参见对正在编译的类 模板 实例化“bit::vector<int>”的引用
+c:\users\administrator\documents\visual studio 2013\20-4-28\20-4-28\vector.h(65): error C3312: 未找到类型“bit::vector<int> *const ”的可调用“end”函数
+c:\users\administrator\documents\visual studio 2013\20-4-28\20-4-28\vector.h(67): error C2065: “cout”: 未声明的标识符
+c:\users\administrator\documents\visual studio 2013\20-4-28\20-4-28\vector.h(67): error C2065: “x”: 未声明的标识符
+c:\users\administrator\documents\visual studio 2013\20-4-28\20-4-28\vector.h(67): error C2065: “endl”: 未声明的标识符
+已完成生成项目“C:\Users\Administrator\Documents\Visual Studio 2013\20-4-28\20-4-28\20-4-28.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.71
